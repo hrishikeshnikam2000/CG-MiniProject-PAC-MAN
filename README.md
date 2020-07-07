@@ -10,10 +10,11 @@ This is an interactive game in which your Pac-man has to eat maximum number of P
 But that's not all.
 
 To Increase the Difficuly of this game there are 3 levels added. Namely:-
-      1)Easy
-      2)Medium
-      3)Hard
-      
+                
+                1)Easy
+                2)Medium
+                3)Hard
+
       
 The speed for each level is different and is according to the name.
 
