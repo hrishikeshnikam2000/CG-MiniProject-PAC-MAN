@@ -1,5 +1,7 @@
 # Pac-Man Game in C++
 
+
+
 ## CG-MiniProject
 
 
@@ -29,6 +31,6 @@ You have to save yourself from getting eaten as well as eat the most Pac-points 
 
 This Game is made in TURBO C++.
 
-For running this game i recommend installing Turbo C++ .
+For running this game I recommend installing Turbo C++ .
 
 #### Thank you!
